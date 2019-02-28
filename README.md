@@ -32,7 +32,6 @@ I also modified the output so that each blog post is clickable and takes you to 
 ## Step 3: Create a New Page and Select the New Template
 Once you’re finished with that, create a new page in WordPress and select Writing Index (or whatever you named your template) from the Page Attributes section.
 
-Page attribute box WordPress admin
 I used a Gutenberg block to add a brief intro to the list of blog posts and then published it. Boom! An auto updating list of blog posts from all the blogs I write for. If I start writing for another blog, all I need to do is add a section for a fourth blog to my functions.php file.
 
 If you want to see what the page looks like, go to [feliciaceballos.com/writing](https://feliciaceballos.com/writing/).
