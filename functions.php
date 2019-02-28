@@ -1,7 +1,7 @@
 <?php 
 
 //* Display posts from other blogs with WordPress REST API
-function display_posts_from_other_blogs() {
+function fc_display_posts_from_other_blogs() {
 	// trying to get value from the cache
 if( false == $allposts = get_transient( 'misha_remote_cache' ) ) {
  
