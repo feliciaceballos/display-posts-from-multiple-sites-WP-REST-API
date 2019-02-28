@@ -14,6 +14,7 @@ function bbs_index_body_class( $classes ) {
 
 }
 
+//* Adds List of post to Entry Content
 add_action( 'genesis_entry_content', 'fc_display_posts_from_other_blogs' );
 
 genesis();
